@@ -1,9 +1,9 @@
 {
     "env":
     {
-        "MONGO_USER": "gunjan768",
-        "MONGO_PASSWORD": "nbNUtO87UiXNOnAy",
-        "MONGO_DB": "events-react-dev",
-        "SECRET_KEY": "it's a top secret"
+        "MONGO_USER": "",
+        "MONGO_PASSWORD": "",
+        "MONGO_DB": "",
+        "SECRET_KEY": ""
     }
 }
