@@ -1,0 +1,13 @@
+.auth-form {
+    width: 25rem;
+    max-width: 80%;
+    margin: 5rem auto;
+}
+
+.justAfterSignUp {
+    width: 27rem;
+    height: 2rem;
+    position: relative;
+    left: 35%;
+    border: 2px solid orangered;
+}
